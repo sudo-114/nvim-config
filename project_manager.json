@@ -1,0 +1,17 @@
+{
+  "~/projects/home_med/": {
+    "name": "HomeMed FastPass",
+    "description": "Medical app",
+    "command": "pnpm start"
+  },
+  "~/projects/webdev-midsem/": {
+    "name": "Mid sem",
+    "description": "Auth system",
+    "command": "php -S 0.0.0.0:8000"
+  },
+  "~/projects/whatsapp-electron/": {
+    "name": "WhatsApp electron",
+    "description": "WhatsApp web in electron wrapper",
+    "command": "pnpm start"
+  }
+}
