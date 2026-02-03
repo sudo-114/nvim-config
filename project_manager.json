@@ -1,0 +1,12 @@
+{
+  "~/dev/home_med/": {
+    "name": "HomeMed FastPass",
+    "description": "Medical app",
+    "command": "pnpm start"
+  },
+  "~/dev/webdev-midsem/": {
+    "name": "Mid sem",
+    "description": "Auth system",
+    "command": "php -S 0.0.0.0:8000"
+  }
+}
