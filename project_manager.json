@@ -1,0 +1,12 @@
+{
+  "~/projects/homemed/": {
+    "name": "HomeMed",
+    "description": "Medical app",
+    "command": "pnpm start"
+  },
+  "~/projects/whatsapp-electron/": {
+    "name": "WhatsApp electron",
+    "description": "WhatsApp web in electron wrapper",
+    "command": "pnpm start"
+  }
+}
