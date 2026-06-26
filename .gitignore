@@ -1,0 +1,4 @@
+*.json
+!lazy-lock.json
+!code_runner.json
+!project_manager.json
